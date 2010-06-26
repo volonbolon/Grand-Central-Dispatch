@@ -1,11 +1,3 @@
-//
-//  GCDAppDelegate.m
-//  GCD
-//
-//  Created by Ariel Rodriguez on 6/26/10.
-//  Copyright Mobile Tonic 2010. All rights reserved.
-//
-
 #import "GCDAppDelegate.h"
 #import "GCDViewController.h"
 

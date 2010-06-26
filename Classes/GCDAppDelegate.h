@@ -1,11 +1,3 @@
-//
-//  GCDAppDelegate.h
-//  GCD
-//
-//  Created by Ariel Rodriguez on 6/26/10.
-//  Copyright Mobile Tonic 2010. All rights reserved.
-//
-
 #import <UIKit/UIKit.h>
 
 @class GCDViewController;
