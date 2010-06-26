@@ -1,0 +1,1 @@
+Sample of a really simple Grand Central Dispatch application. It calculates π implementing the Gauss–Legendre algorithm on a separate thread using GCD. 
