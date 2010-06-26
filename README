@@ -1,1 +1,3 @@
 Sample of a really simple Grand Central Dispatch application. It calculates π implementing the Gauss–Legendre algorithm on a separate thread using GCD. 
+
+Since the PI calculation was a little bit boring (after a couple of iterations, the result converge to an approximation good enough), i've changed the background computation to a sieve of primes. 
