@@ -1,1 +1,3 @@
-Sample of a really simple Grand Central Dispatch application. It calculates π implementing the Gauss–Legendre algorithm on a separate thread using GCD. 
+Sample of a really simple Grand Central Dispatch application. It calculates π implementing the Gauss–Legendre algorithm on a separate thread using GCD.
+
+Meant to be read with http://volonbolon.tumblr.com/post/749707585/grand-central-dispatch-queues 
